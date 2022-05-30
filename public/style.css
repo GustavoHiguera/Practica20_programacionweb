@@ -1,0 +1,45 @@
+* {
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #393e46;
+  margin: 0;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  color: #72147e;
+}
+
+p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  padding-top: 5px;
+}
+
+.header {
+  background: linear-gradient(
+    to right,
+    blue,
+    yellow,
+    pink,
+    white,
+    brown,
+    green,
+    black
+  );
+  height: 70px;
+  padding-top: 20px;
+}
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+.right {
+  margin-left: 50%;
+}
